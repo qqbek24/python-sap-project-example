@@ -1,0 +1,7 @@
+git+http:// path to custom BOT library
+git+http:// path to custom SAP library
+pytest
+pandas
+openpyxl
+xlwings
+pyyaml

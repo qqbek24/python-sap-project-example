@@ -1,0 +1,23 @@
+dev:
+  sap_system: "ACE"
+test:
+  sap_system: "ACE"
+prod:
+  sap_system: "PCE"
+default:
+  sap_client: '010'
+  sap_language: 'EN'
+  company_code1: '3B5'
+  company_code2: 'V436'
+  max_run_time: 600 # in minutes
+  my_test_param: 'my_test_value'
+  layout_me2n: ''
+  variant_cockpit: 'your_variant'
+  layout_cockpit1: 'your_layout'
+  layout_cockpit2: ''
+  report_receiver_to: 'jakub.koziorowski@mail.com'
+  report_receiver_cc: ''
+  report_receiver_bbc: ''
+  exceptions_receiver_to: 'jakub.koziorowski@mail.com'
+  exceptions_receiver_cc: ''
+  exceptions_receiver_bbc: ''
